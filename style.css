@@ -1,0 +1,25 @@
+.heading{
+    font-size: 23px;
+    color:rgb(145, 18, 111);
+    border:solid;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: rgb(245, 245, 245);
+    font-family: fantasy;
+    
+    
+}
+.name_of_objects{
+    color:rgb(172, 235, 187);
+}
+#camera{
+    border: 2px dashed rgb(207, 207, 207);
+    width:350px;
+    height: 300px;
+}
+hr{
+    color:rgb(0, 0, 0) !important;
+}
+body{
+    background-color: rgb(19, 15, 43);
+}
